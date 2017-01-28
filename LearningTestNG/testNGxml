@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "TestNG Learning">
+     <test name = "Login test">
+     
+     
+          <classes>
+              <class name = "Test1">  </class>
+               </classes>
+                  </test>
+                        
+                        
+                           
+                            
+                         <test name = "Capture Screen test">
+                         
+                         <classes>
+                              <class name = "Test_2"></class>
+                               
+                                       </classes>
+                                 
+                  
+                             
+                           </test>
+                               
